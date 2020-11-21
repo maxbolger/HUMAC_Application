@@ -11,10 +11,14 @@
 
 ## This repository consists of my application for the Hamline University Marketing Analytics Clinic Internship
 
-- Click [here]() to view my application
+- Click [here]() to view my case study
 
-- Click [here]() to view the raw `.ipynb` file of my application
+- Click [here]() to view the raw `.ipynb` file of my case study
 
-- Click [here]() to view my resume
+- Click [here](https://github.com/maxbolger/HUMAC_Application/blob/main/ResumeMaxBolger.pdf) to view my resume
+
+- Click [here](https://github.com/maxbolger/HUMAC_Application/blob/main/survey_responses.csv) to view the survey response data
+
+- Click [here](https://github.com/maxbolger/HUMAC_Application/blob/main/order_behavior.csv) to view the order behavior data
 
 ### Max Bolger, 2020
