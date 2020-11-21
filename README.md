@@ -12,6 +12,7 @@
 ## This repository consists of my application for the Hamline University Marketing Analytics Clinic Internship
 
 - Click [here](https://github.com/maxbolger/HUMAC_Application/blob/main/MAC_App_MaxBolger.ipynb) to view my case study
+  - Click [here](https://raw.githubusercontent.com/maxbolger/HUMAC_Application/main/MAC_App_MaxBolger.html) to view the raw html file (Right Click -> Save As... to download)
 
 - Click [here](https://github.com/maxbolger/HUMAC_Application/blob/main/ResumeMaxBolger.pdf) to view my resume
 
